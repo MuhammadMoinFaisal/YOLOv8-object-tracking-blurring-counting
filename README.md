@@ -15,11 +15,11 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/MuhammadMoinFaisal/YOLOv8-object-tracking-blurring-counting.git
 ```
 - Goto the cloned folder.
 ```
-cd YOLOv8-DeepSORT-Object-Tracking
+cd YOLOv8-object-tracking-blurring-counting
 ```
 - Install the dependecies
 ```
