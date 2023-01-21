@@ -1,5 +1,5 @@
 <H1 align="center">
-YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
+YOLOv8 Object Tracking (ID + Trails) Blurring and Counting </H1>
 
 ## Google Colab File Link (A Single Click Solution)
 The google colab file link for yolov8 object detection and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation
